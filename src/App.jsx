@@ -69,8 +69,6 @@ function App() {
     }
   }, [choiceOne, choiceTwo]);
 
-  console.log(cards);
-
   return (
     <div className="App">
       <h1>DragonBall Z</h1>
